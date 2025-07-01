@@ -39,3 +39,10 @@
 </p>
 
 <hr>
+
+### 🔍 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Amazon Topic Modeling](https://github.com/imcwu/amazon-arts-crafts-reviews-topic-modeling-python/tree/main) | LDA + LSA on Amazon Arts & Crafts reviews using Python |
+| [Another Project](https://github.com/imcwu/other-project) | Description here |
