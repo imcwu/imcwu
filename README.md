@@ -44,5 +44,6 @@
 
 | Project | Description |
 |--------|-------------|
-| [Amazon Topic Modeling](https://github.com/imcwu/amazon-arts-crafts-reviews-topic-modeling-python/tree/main) | LDA + LSA on Amazon Arts & Crafts reviews using Python |
-| [Movie Review Sentiment Analysis](https://github.com/imcwu/movie-reviews-sentiment-analysis-python) | Sentiment Analysis and Categorization on Stanford Movie Review dataset using Python |
+| [Amazon Topic Modeling](https://github.com/imcwu/amazon-arts-crafts-reviews-topic-modeling-python/tree/main) | LDA + LSA on Amazon arts & crafts reviews using Python |
+| [Movie Review Sentiment Analysis](https://github.com/imcwu/movie-reviews-sentiment-analysis-python) | Sentiment Analysis and Categorization on Stanford movie review dataset using Python |
+| [Global Company Sales PowerBI Dashboard](https://github.com/imcwu/global-company-sales-powerbi-dashboard) | Visualization through creation of a dashboard for global company sales data using PowerBI |
