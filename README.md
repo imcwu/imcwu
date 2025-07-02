@@ -10,7 +10,7 @@
 
 ### A business analytics student passionate about transforming data into strategic insights and building tools that drive smarter decisions.
 
-- 🌱 I’m currently working on several passion projects
+- 🌱 I’m currently working on several passion projects which will be added soon to my featured projects below
 - 💬 Open to chat about SQL, text mining methods on Python, and data visualization with PowerBI
 
 <br>
