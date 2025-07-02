@@ -47,3 +47,4 @@
 | [Amazon Topic Modeling](https://github.com/imcwu/amazon-arts-crafts-reviews-topic-modeling-python/tree/main) | LDA + LSA on Amazon arts & crafts reviews using Python |
 | [Movie Review Sentiment Analysis](https://github.com/imcwu/movie-reviews-sentiment-analysis-python) | Sentiment Analysis and Categorization on Stanford movie review dataset using Python |
 | [Global Company Sales PowerBI Dashboard](https://github.com/imcwu/global-company-sales-powerbi-dashboard) | Visualization through creation of a dashboard for global company sales data using PowerBI |
+| [U.S. Small Business Administratiion Loan Approval Analysis](https://github.com/imcwu/SBA-loan-approval-classification-models-r) | Classification models for predicting loan risks of default, built in R |
