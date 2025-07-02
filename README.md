@@ -45,4 +45,4 @@
 | Project | Description |
 |--------|-------------|
 | [Amazon Topic Modeling](https://github.com/imcwu/amazon-arts-crafts-reviews-topic-modeling-python/tree/main) | LDA + LSA on Amazon Arts & Crafts reviews using Python |
-| [Another Project](https://github.com/imcwu/other-project) | Description here |
+| [Movie Review Sentiment Analysis](https://github.com/imcwu/movie-reviews-sentiment-analysis-python) | Sentiment Analysis and Categorization on Stanford Movie Review dataset using Python |
